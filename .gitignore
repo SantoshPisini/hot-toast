@@ -55,3 +55,4 @@ cypress/integration/examples
 
 # dist
 dist
+/.angular/cache
